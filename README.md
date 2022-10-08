@@ -1,5 +1,5 @@
 # Php-Upload-Sistemi
-Bəsit saf php ilə upload skripti.
+Core php ilə upload skripti.
 # Skript Haqqında
 Onlayn Fayl Upload sistemidir. Sistemə fayl upload edirik bizə link qayatarır bu linki paylaşmaqla faylın yüklənməsini təmin edə bilirik.
 # Saytın hazırlanmasında istifadə olunmuş texnologiyalar
